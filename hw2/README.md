@@ -1,0 +1,1 @@
+The folder covers  topic of java interfaces 

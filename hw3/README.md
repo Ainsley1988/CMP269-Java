@@ -1,0 +1,1 @@
+The Folder covers homework assignment dealing with generics 
